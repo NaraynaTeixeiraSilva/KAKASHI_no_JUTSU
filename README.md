@@ -4,7 +4,7 @@ Como o lendário ninja Kakashi (Naruto), esta automação observa, copia e execu
 # 🌀 KAKASHI_no_JUTSU
 
 <p align="center">
-  <img src="https://github.com/NaraynaTeixeiraSilva/KAKASHI_no_JUTSU/blob/35af80d40f2e9c26bb9b77a3ab3736f2699fa51c/README_Files/KAKASHI_no_JUTSU.gif" alt="Kakashi Sharingan" width="400"/>
+  <img src="https://github.com/NaraynaTeixeiraSilva/KAKASHI_no_JUTSU/blob/d454f3eb6aaa9c03e42b76717db0ef6c2ba9656a/README_Files/KAKASHI_no_JUTSU_Hello_World.png" alt="Kakashi Sharingan" width="400"/>
 </p>
 
 > **“Aqueles que quebram as regras são lixo... mas aqueles que não se importam com automação, são piores ainda.” – Kakashi DEV, provavelmente.**
@@ -17,9 +17,8 @@ Esta automação tem a habilidade de **extrair dados de um sistema e replicar fi
 💡 **Objetivo**: Eliminar o trabalho manual repetitivo, integrando sistemas de forma ágil e eficiente.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvYeL5z/giphy.gif" alt="Kakashi copiando jutsu" width="400"/>
+  <img src="https://github.com/NaraynaTeixeiraSilva/KAKASHI_no_JUTSU/blob/35af80d40f2e9c26bb9b77a3ab3736f2699fa51c/README_Files/KAKASHI_no_JUTSU.gif" alt="Kakashi Sharingan" width="400"/>
 </p>
-
 ---
 
 ## ⚙️ Funcionalidades
