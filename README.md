@@ -44,6 +44,3 @@ Esta automação tem a habilidade de **extrair dados de um sistema e replicar fi
 ## 🚀 Como Usar
 
 1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/seu-usuario/KAKASHI_no_JUTSU.git
-   cd KAKASHI_no_JUTSU
