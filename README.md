@@ -7,7 +7,7 @@ Como o lendário ninja Kakashi (Naruto), esta automação observa, copia e execu
   <img src="https://github.com/NaraynaTeixeiraSilva/KAKASHI_no_JUTSU/blob/35af80d40f2e9c26bb9b77a3ab3736f2699fa51c/README_Files/KAKASHI_no_JUTSU.gif" alt="Kakashi Sharingan" width="400"/>
 </p>
 
-> **“Aqueles que quebram as regras são lixo... mas aqueles que não se importam com automação, são piores ainda.” – Kakashi, provavelmente.**
+> **“Aqueles que quebram as regras são lixo... mas aqueles que não se importam com automação, são piores ainda.” – Kakashi DEV, provavelmente.**
 
 ## 📋 Sobre o Projeto
 
